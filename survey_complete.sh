@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=sleepy lobster bicycle soba 153745
+EXAMCODE=730388561
 
 echo ${EXAMCODE}
